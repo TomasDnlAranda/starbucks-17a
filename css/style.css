@@ -3,3 +3,15 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+h1 {
+	background-color: aqua;
+}
+
+div {
+	background-color: firebrick;
+}
+
+p {
+	background-color: darkcyan;
+}
